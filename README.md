@@ -16,8 +16,6 @@ qualityMatch_notebook.ipynb
 data
   | anonymized_project.json
   | references.json
- presentation
-  | presentation.pdf
 ```
 Now you can run the notebook.
 ```
